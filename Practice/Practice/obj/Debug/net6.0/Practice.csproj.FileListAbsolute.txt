@@ -1,0 +1,15 @@
+D:\DeepDriveinprogrammming\Practice\Practice\bin\Debug\net6.0\Practice.exe
+D:\DeepDriveinprogrammming\Practice\Practice\bin\Debug\net6.0\Practice.deps.json
+D:\DeepDriveinprogrammming\Practice\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+D:\DeepDriveinprogrammming\Practice\Practice\bin\Debug\net6.0\Practice.dll
+D:\DeepDriveinprogrammming\Practice\Practice\bin\Debug\net6.0\Practice.pdb
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\Practice.dll
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\refint\Practice.dll
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\Practice.pdb
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+D:\DeepDriveinprogrammming\Practice\Practice\obj\Debug\net6.0\ref\Practice.dll
