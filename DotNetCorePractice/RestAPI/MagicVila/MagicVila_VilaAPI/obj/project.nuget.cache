@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "i2Gm+Yli8uSfnuCzh0XEGA3i3O9c936+Rh8/cED7pLDFMvfczCpBT1uViwkXoG6DXUk6yLC9mC/IcIVV9n5bYA==",
+  "dgSpecHash": "bW+pdIiap6qFFWrF1NJj1Hf3w5LbcDSg1Iraw+2k1EEj5mSmRZyts1o325gETf3Q8/pJp8PxDGNbyLLy9gEydA==",
   "success": true,
   "projectFilePath": "D:\\DeepDriveinprogrammming\\DotNetCorePractice\\RestAPI\\MagicVila\\MagicVila_VilaAPI\\MagicVila_VilaAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.1\\microsoft.aspnetcore.jsonpatch.7.0.1.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.1\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.0\\microsoft.aspnetcore.jsonpatch.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

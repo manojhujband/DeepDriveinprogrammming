@@ -42,11 +42,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.JsonPatch": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",

@@ -31,3 +31,7 @@ D:\DeepDriveinprogrammming\DotNetCorePractice\RestAPI\MagicVila\MagicVila_VilaAP
 D:\DeepDriveinprogrammming\DotNetCorePractice\RestAPI\MagicVila\MagicVila_VilaAPI\obj\Debug\net7.0\MagicVila_VilaAPI.pdb
 D:\DeepDriveinprogrammming\DotNetCorePractice\RestAPI\MagicVila\MagicVila_VilaAPI\obj\Debug\net7.0\MagicVila_VilaAPI.genruntimeconfig.cache
 D:\DeepDriveinprogrammming\DotNetCorePractice\RestAPI\MagicVila\MagicVila_VilaAPI\obj\Debug\net7.0\ref\MagicVila_VilaAPI.dll
+D:\DeepDriveinprogrammming\DotNetCorePractice\RestAPI\MagicVila\MagicVila_VilaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DeepDriveinprogrammming\DotNetCorePractice\RestAPI\MagicVila\MagicVila_VilaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DeepDriveinprogrammming\DotNetCorePractice\RestAPI\MagicVila\MagicVila_VilaAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\DeepDriveinprogrammming\DotNetCorePractice\RestAPI\MagicVila\MagicVila_VilaAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
