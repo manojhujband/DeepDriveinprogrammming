@@ -39,6 +39,7 @@ namespace MagicVila_VilaAPI.Controllers
             if (id==0)
             {
                 _logger.log("Get Villa error with id " + id,"error");
+
                 return BadRequest();
             }
 
