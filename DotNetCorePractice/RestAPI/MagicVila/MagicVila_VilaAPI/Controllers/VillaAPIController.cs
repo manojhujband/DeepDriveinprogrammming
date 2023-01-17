@@ -1,5 +1,6 @@
 ﻿using MagicVila_VilaAPI.Data;
 using MagicVila_VilaAPI.Dto;
+using MagicVila_VilaAPI.Logging;
 using MagicVila_VilaAPI.Models;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.JsonPatch;
@@ -14,17 +15,17 @@ namespace MagicVila_VilaAPI.Controllers
    
     public class VillaAPIController : ControllerBase
     {
-        private readonly ILogger<VillaAPIController> _logger;
+        private readonly ILogging _logger;
 
-        public VillaAPIController(ILogger<VillaAPIController> logger)
+        public VillaAPIController(ILogging  logger)
         {
             _logger = logger;
         }
         [HttpGet]
         public ActionResult<IEnumerable<VillaDto>> GetVillas()
-
+              
         {
-            _logger.LogInformation("Getting All Villas");
+            _logger.log("Getting All Villas","");
             return Ok(VillaStore.villalist);
 
         }
@@ -37,7 +38,7 @@ namespace MagicVila_VilaAPI.Controllers
         {
             if (id==0)
             {
-                _logger.LogError("Get Villa error with id " + id);
+                _logger.log("Get Villa error with id " + id,"error");
                 return BadRequest();
             }
 
